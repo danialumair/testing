@@ -1,6 +1,6 @@
 {
   "name": "Employeerlogin",
-  "app_id": "",
+  "app_id": "48a9d151",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
